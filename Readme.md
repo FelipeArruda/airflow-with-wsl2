@@ -1,4 +1,4 @@
-# Airflow with WSL 2
+# Airflow with WSL 2 
 ## Possíveis problemas
 1) Feature Microsoft-Windows-Subsystem-Linux não esta habilitada, é necessário executar o comando com o powershell em modo administrador.
     ```
